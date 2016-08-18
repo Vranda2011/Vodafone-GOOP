@@ -1,0 +1,9 @@
+http://stackoverflow.com/questions/7609223/how-can-we-run-javascript-jasmine-tests-from-jenkins-hudson-without-loading-a
+
+http://phantomjs.org/quick-start.html
+
+http://stackoverflow.com/questions/25256657/how-to-use-phantomjs-plugin-in-jenkins
+
+http://searls.github.io/jasmine-maven-plugin/
+
+https://github.com/TheRaven/jenkins-jasmine-node/blob/master/pom.xml
